@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Electronics Store</title>
+</head>
+<body>
+    <div class="container">
+        <h1>Welcome to the Electronics Store</h1>
+
+        <div>
+            <h2>Electronic Details</h2>
+            <form id="electronicForm">
+                <label for="name">Name:</label>
+                <input type="text" id="name" name="name" required>
+
+                <label for="id">ID:</label>
+                <input type="text" id="id" name="id" required>
+
+                <label for="price">Price:</label>
+                <input type="number" id="price" name="price" required>
+
+                <label for="released_at">Released At:</label>
+                <input type="date" id="released_at" name="released_at" required>
+
+                <label for="manufacturer">Manufacturer:</label>
+                <input type="text" id="manufacturer" name="manufacturer" required>
+
+                <label for="guarantee">Guarantee:</label>
+                <input type="number" id="guarantee" name="guarantee" required>
+
+                <button type="button" onclick="addElectronic()">Add Electronic</button>
+            </form>
+        </div>
+
+        <div id="electronicsList">
+            <h2>Electronics List</h2>
+            <ul id="electronicItems">
+                <!-- Electronic items will be displayed here dynamically -->
+            </ul>
+        </div>
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>

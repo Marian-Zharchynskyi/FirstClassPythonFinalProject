@@ -1,0 +1,69 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+.container {
+    max-width: 800px;
+    margin: 20px auto;
+    background-color: #fff;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1, h2 {
+    color: #333;
+}
+
+form {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 10px;
+    margin-top: 10px;
+}
+
+label {
+    margin-bottom: 5px;
+}
+
+button {
+    padding: 10px;
+    background-color: #4caf50;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #45a049;
+}
+
+#electronicsList {
+    margin-top: 20px;
+}
+
+#electronicItems {
+    list-style-type: none;
+    padding: 0;
+}
+
+.electronicItem {
+    border: 1px solid #ddd;
+    margin-bottom: 5px;
+    padding: 10px;
+    background-color: #f9f9f9;
+}
+
+.deleteButton {
+    background-color: #f44336;
+    color: #fff;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+}
+
+.deleteButton:hover {
+    background-color: #d32f2f;
+}

@@ -1,0 +1,50 @@
+name,id,price,released_at,manufacturer,guarantee
+iPhone 12,1,899.99,2020.10.23,Apple,1 
+Sony PlayStation 5,3,499.99,2020.11.12,Sony,3 
+LG OLED TV,4,2499.99,2021.03.15,LG,2 
+Xbox Ones,5,250.0,02.03.2003,Microsoft,2 
+Lenovo ThinkPad X1 Carbon,6,1899.99,2020.12.10,Lenovo,3 
+Canon EOS R5,7,3799.99,2020.07.09,Canon,2 
+GoPro Hero 9 Black,8,449.99,2020.09.16,GoPro,1 
+Bose QuietComfort 35 II,9,299.99,2019.10.13,Bose,2 
+Nintendo Switch,10,299.99,2017.03.03,Nintendo,1 
+Microsoft Xbox Series X,11,499.99,2020.11.10,Microsoft,3 
+HP Pavilion Gaming Laptop,12,1099.99,2021.06.01,HP,2 
+Sony WH-1000XM4,13,349.99,2020.08.07,Sony,1 
+Samsung QLED Q90T,14,1999.99,2020.05.15,Samsung,2 
+Apple MacBook Pro,15,2399.99,2020.11.10,Apple,3 
+Google Pixel 6,16,799.99,2022.01.14,Google,1 
+OnePlus 9 Pro,17,899.99,2021.03.23,OnePlus,2 
+Asus ROG Strix G15,18,1499.99,2021.04.27,Asus,3 
+Fitbit Charge 4,19,149.99,2020.03.15,Fitbit,1 
+JBL Flip 5,20,119.99,2019.07.01,JBL,2 
+Sony A7 III,21,1999.99,2018.04.10,Sony,3 
+Samsung Galaxy Note 20,22,999.99,2020.08.05,Samsung,1 
+Apple Watch Series 6,23,399.99,2020.09.18,Apple,2 
+Sony WH-1000XM4,24,349.99,2020.10.01,Sony,3 
+LG Gram Laptop,25,1199.99,2020.12.10,LG,1 
+Google Nest Hub,26,129.99,2019.07.15,Google,2 
+DJI Mavic Air 2,27,799.99,2020.05.30,DJI,3 
+Microsoft Surface Pro 7,28,1299.99,2019.10.20,Microsoft,1 
+Samsung Galaxy Tab S7,29,649.99,2020.08.18,Samsung,2 
+Apple AirPods Pro,30,249.99,2019.10.30,Apple,3 
+Sony X950H 4K TV,31,1799.99,2020.07.01,Sony,1 
+HP Spectre x360,32,1599.99,2020.04.15,HP,2 
+Nintendo Switch Lite,33,199.99,2019.09.20,Nintendo,3 
+Canon EOS RP,34,1299.99,2019.03.01,Canon,1 
+Bose SoundLink Revolve+,35,299.99,2018.06.15,Bose,2 
+Microsoft Surface Laptop 4,36,1399.99,2021.05.10,Microsoft,3 
+LG CX OLED TV,37,2199.99,2021.02.05,LG,1 
+Samsung Galaxy Watch 4,38,299.99,2021.08.23,Samsung,2 
+Apple iPad Air,39,599.99,2020.09.15,Apple,3 
+Sony WF-1000XM4,40,279.99,2021.06.30,Sony,1 
+Dell Alienware m15 R4,41,2399.99,2021.03.10,Dell,2 
+Google Pixel 5a,42,499.99,2021.08.18,Google,3 
+OnePlus 9,43,699.99,2021.04.01,OnePlus,1 
+Asus ZenBook Pro Duo,44,2499.99,2020.07.15,Asus,2 
+Fitbit Versa 3,45,229.99,2020.10.01,Fitbit,3 
+JBL Charge 5,46,179.99,2020.09.05,JBL,1 
+Sony X900H 4K TV,47,1499.99,2020.11.20,Sony,2 
+HP Envy x360,48,899.99,2021.02.10,HP,3 
+Samsung Galaxy Buds Pro,49,199.99,2021.01.18,Samsung,1 
+Apple HomePod mini,50,99.99,2020.11.15,Apple,2
